@@ -1,0 +1,10 @@
+.yuko {
+    position: fixed;
+    top: 55%;
+    height: 400px;
+    width: 20%;
+    background:  center/95% url("yuko.png") no-repeat ;
+}
+.yuko:hover {
+    background: center/95% url("yuko_2.png") no-repeat;
+}
